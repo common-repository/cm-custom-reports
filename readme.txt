@@ -4,7 +4,7 @@ Contributors: CreativeMindsSolutions
 Donate link: https://www.cminds.com/wordpress-plugins-library/purchase-cm-custom-reports-plugin-for-wordpress/
 Tags: reports, statistics, report, reporting, user report
 Requires at least: 5.4.0
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: 1.2.1
 Requires PHP: 5.2.4
 License: GPLv2 or later
